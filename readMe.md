@@ -18,3 +18,13 @@ Step 2. Add the dependency
 	}
 	
 [![](https://jitpack.io/v/hgnis/mToast.svg)](https://jitpack.io/#hgnis/mToast)
+
+
+How to use :
+ mToast.checker(this);
+ mToast.error(this); 
+ mToast.success(this); 
+ mToast.Show(this,Message);
+ mToast.errorMessage(this,Message); 
+ mToast.successMessage(this,Message); 
+ mToast.custom(this,Message,BackgroundColor,textColor);
