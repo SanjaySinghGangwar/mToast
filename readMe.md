@@ -16,3 +16,5 @@ Step 2. Add the dependency
 	dependencies {
 	         implementation 'com.github.hgnis:mToast:1.0'
 	}
+	
+[![](https://jitpack.io/v/hgnis/mToast.svg)](https://jitpack.io/#hgnis/mToast)
